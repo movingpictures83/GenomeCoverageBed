@@ -1,0 +1,2 @@
+Prefix plugins/GenomeCoverageBed/example/
+Plugin GenomeCoverageBed inputfile output.bam outputfile output.main.txt
